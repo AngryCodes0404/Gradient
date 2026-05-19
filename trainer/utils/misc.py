@@ -136,4 +136,3 @@ def are_gpus_available(requested_gpu_ids: list[int]) -> bool:
                 return False
     
     return True
-
