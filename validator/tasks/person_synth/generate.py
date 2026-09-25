@@ -109,4 +109,3 @@ if __name__ == "__main__":
         with open(f"{save_dir}{image_id}.txt", "w") as file:
             file.write(prompt)
 
-
